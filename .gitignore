@@ -1,0 +1,13 @@
+# sistema
+.DS_Store
+__pycache__/
+*.pyc
+
+# solo código: imágenes y archivos de diseño quedan fuera
+*.psd
+*.png
+*.jpg
+*.jpeg
+
+# tipografías con licencia (no redistribuir)
+fuentes/
